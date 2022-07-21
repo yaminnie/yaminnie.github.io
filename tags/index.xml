@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 捲捲與珮珮の美食紀錄</title>
+    <title>Tags on 美食の綱目</title>
     <link>https://yaminnie.github.io/tags/</link>
-    <description>Recent content in Tags on 捲捲與珮珮の美食紀錄</description>
+    <description>Recent content in Tags on 美食の綱目</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 13 Jul 2022 11:10:47 +0800</lastBuildDate><atom:link href="https://yaminnie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 11:10:47 +0800</lastBuildDate><atom:link href="https://yaminnie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>公館美食</title>
+      <link>https://yaminnie.github.io/tags/%E5%85%AC%E9%A4%A8%E7%BE%8E%E9%A3%9F/</link>
+      <pubDate>Thu, 21 Jul 2022 11:10:47 +0800</pubDate>
+      
+      <guid>https://yaminnie.github.io/tags/%E5%85%AC%E9%A4%A8%E7%BE%8E%E9%A3%9F/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>台北美食</title>
       <link>https://yaminnie.github.io/tags/%E5%8F%B0%E5%8C%97%E7%BE%8E%E9%A3%9F/</link>
-      <pubDate>Wed, 13 Jul 2022 11:10:47 +0800</pubDate>
+      <pubDate>Thu, 21 Jul 2022 11:10:47 +0800</pubDate>
       
       <guid>https://yaminnie.github.io/tags/%E5%8F%B0%E5%8C%97%E7%BE%8E%E9%A3%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>牛排</title>
+      <link>https://yaminnie.github.io/tags/%E7%89%9B%E6%8E%92/</link>
+      <pubDate>Thu, 21 Jul 2022 11:10:47 +0800</pubDate>
+      
+      <guid>https://yaminnie.github.io/tags/%E7%89%9B%E6%8E%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自助吧</title>
+      <link>https://yaminnie.github.io/tags/%E8%87%AA%E5%8A%A9%E5%90%A7/</link>
+      <pubDate>Thu, 21 Jul 2022 11:10:47 +0800</pubDate>
+      
+      <guid>https://yaminnie.github.io/tags/%E8%87%AA%E5%8A%A9%E5%90%A7/</guid>
       <description></description>
     </item>
     
